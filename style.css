@@ -1,0 +1,72 @@
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    color: green;
+}
+
+body{
+    background-color: aqua;
+}
+
+h2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 32px;
+}
+
+h3{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 31px;
+}
+
+p1{
+    font-family: fantasy;
+    color: yellow;
+}
+
+h4{
+    font-family: fantasy;
+    font-size: 29px;
+    text-align: center;
+}
+
+
+
+h5{
+    font-size: 40px;
+    text-align: center;
+    font-family: fantasy;
+    color: blue;
+}
+
+h2{
+    color: blue;
+}
+
+
+p2{
+
+  font-family: fantasy;
+  color: yellow;
+  font-size: 36px;
+
+
+}
+
+a{
+
+width: 200px;
+background-color: #7b38d8;
+padding: 20px;
+color: blue;
+font-family: fantasy;
+
+}
+
+
+
+
+
+

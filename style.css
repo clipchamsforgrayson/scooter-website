@@ -71,6 +71,15 @@ letter-spacing: 4px;
 background-color: #25252A;
 }
 
+.button{
+font-family: 'Source Sans Pro', sans-serif;
+letter-spacing: 4px;
+background-color: #25252A;
+}
+
+
+
+
 .container{
 display: flex;
 flex-direction: row;
